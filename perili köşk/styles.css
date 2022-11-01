@@ -1,0 +1,42 @@
+#navbar{background-color: black;
+    height: 120px;
+    width: auto;
+    margin-top: 0px;
+    margin-left: 0px;
+    padding: 0px;
+}
+h1{
+    color:gold;
+    text-align: center;
+}
+h2{
+    color: aliceblue;
+    text-align: center;
+}
+#navbar-menü{
+    margin-right: auto;
+    height: 30px;
+    background-color:gold;
+    width: auto;
+}
+button{
+
+    color: chocolate;
+    margin-right: auto;
+}
+#çizgi{height: 20px;
+width: auto;
+background-color:gold;
+}
+#çizgi2{height: 20px;
+    width: auto;
+    background-color:black;
+    }
+    #iletişim{
+        height: 200px;
+        width: auto;
+        background-color:black;
+        text-align: center;
+        color: gold;
+    }
+
